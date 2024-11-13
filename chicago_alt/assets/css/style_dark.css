@@ -295,7 +295,7 @@ display:block!important;
 	position: relative;
 }
 #main-menu ul li a {
-	color: #000000;
+	color: #ffffff;
 	font-size: 16px;
 	text-transform: capitalize;
 	font-weight: 500;
@@ -429,7 +429,7 @@ color: #fff !important;
 }
 .hero-text img{margin-bottom:30px}	
 .hero-text h1 {
-	color: #000000;
+	color: #ffffff;
 	font-size: 75px;
 	font-weight: 400;
 	text-transform: capitalize;
@@ -442,7 +442,7 @@ color: #fff !important;
 .slider-info h1{font-size:30px;}
 }
 .hero-text p {
-	color: #000000;
+	color: #ffffff;
 	width: 70%;
 	margin: auto;
 	margin-bottom: 40px;
