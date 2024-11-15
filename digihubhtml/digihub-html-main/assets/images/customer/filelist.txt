@@ -1,0 +1,39 @@
+<div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/amalia.jpg" alt="clients-logo" class="clients-logo-one__logo">
+                        </div><!-- /.owl-slide-item -->
+                        <div class="clients-logo-one__item item">
+                            <img src="assets/images/customer/
+CAA.png
+client-nokia.png
+client_aaf.png
+client_adp.png
+client_bali.png
+client_citius.png
+client_compnet.png
+client_dc.png
+client_intim.png
+client_javandra.png
+client_nokia.png
+client_pmt.png
+client_praisindo.png
+client_prosia.png
+client_wadah-arsari.png
+client_wadah-titian.png
+client_wadah-yad.png
+client_xdana.png
+Creative-Capital.png
+filelist.txt
+Indotama.png
+Kimia Farma.png
+Logo_Medika.jpg
+Logo_PDA_Med.jpg
+Netro.jpg
+ocbp.png
+Pandu.png
+petrosync.png
+samitra.png
+Showty.jpg
+tbg.png
+tribakti.jpg
+undp.png
+zebrax.jpg
