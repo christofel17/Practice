@@ -811,6 +811,18 @@ i {
   transform: translate(0%, -50%);
 }
 
+.slider-caption2 {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  z-index: 15;
+  -webkit-transform: translate(0%, -50%);
+  -ms-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+
 .hero-text{padding-top:200px;}
 @media only screen and (max-width:360px) { 
 .hero-text{padding-top:150px;}
@@ -3140,6 +3152,12 @@ i {
   padding-bottom: 0;
   background-color: var(--digihub-primary, #1A1A1A);
 }
+.main-slider2 {
+  position: relative;
+  padding-top: 0px;
+  padding-bottom: 0;
+  background-color: var(--digihub-primary, #1A1A1A);
+}
 .main-slider__row {
   align-items: center;
   margin-bottom: 103px;
@@ -4686,7 +4704,8 @@ i {
 # About Two
 -------------------------------------*/
 .about-two {
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   background-color: var(--digihub-white3, #F6F6F6);
 }
 @media (max-width: 575px) {
