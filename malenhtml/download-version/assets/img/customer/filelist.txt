@@ -1,0 +1,134 @@
+<div class="tp-brand__item">
+   <img src="assets/img/customer/CAA" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client-nokia.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_aaf.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_adp.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_bali.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_citius.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_compnet.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_dc.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_intim.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_javandra.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_nokia.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_pmt.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_praisindo.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_prosia.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_wadah-arsari.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_wadah-titian.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_wadah-yad.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+client_xdana.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Creative-Capital.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Indotama.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Kimia Farma.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Logo_Medika.jpg" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Logo_PDA_Med.jpg" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Netro.jpg" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+ocbp.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Pandu.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+petrosync.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+samitra.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+Showty.jpg" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+tbg.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+tribakti.jpg" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+undp.png" alt="">
+                              </div>
+                              <div class="tp-brand__item">
+                                 <img src="assets/img/customer/
+zebrax.jpg" alt="">
+                              </div>
+
+
+150 x 36
