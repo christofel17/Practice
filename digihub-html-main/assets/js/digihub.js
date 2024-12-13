@@ -385,7 +385,7 @@
       }
     );
   }
-
+ 
   if ($("#donate-amount__predefined").length) {
     let donateInput = $("#donate-amount");
     $("#donate-amount__predefined")
@@ -683,3 +683,53 @@
     }
   });
 })(jQuery);
+
+window.onload = function(){
+  let player = document.getElementById("playera"),
+      play = document.getElementById("boxa");
+  play.addEventListener("mouseover",function(){
+    player.play();
+  });
+  play.addEventListener("mouseout",function(){
+    player.pause();
+  });
+  let playerb = document.getElementById("playerb"),
+      playb = document.getElementById("boxb");
+  playb.addEventListener("mouseover",function(){
+    playerb.play();
+  });
+  playb.addEventListener("mouseout",function(){
+    playerb.pause();
+  });
+  let playerc = document.getElementById("playerc"),
+      playc = document.getElementById("boxc");
+  playc.addEventListener("mouseover",function(){
+    playerc.play();
+  });
+  playc.addEventListener("mouseout",function(){
+    playerc.pause();
+  });
+}
+
+///////////////////////////////////////////
+// Resizing Slider
+
+const inputs = document.querySelectorAll("input");
+const div = document.querySelector("li");
+
+function handleInputChange() {
+  const units = this.dataset.units || "";
+
+  document.documentElement.style.setProperty(
+    `--${this.name}`,
+    this.value + units
+  );
+}
+
+inputs.forEach((input) => input.addEventListener("input", handleInputChange));
+var range = $("input#range"),
+  value = $(".range-value");
+value.html(range.attr("value"));
+range.on("input", function () {
+  value.html(this.value);
+});
